@@ -1,0 +1,5 @@
+Customer Name : Debanjan
+Phone Number : 123456
+Purchases : {'A': 1436}
+Initial Amount : 14360
+Amount after Discount : 11488.0

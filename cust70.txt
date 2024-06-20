@@ -1,0 +1,5 @@
+Customer Name : Debanjan Chakraborty
+Phone Number : 123456
+Purchases : {'B': 12, 'A': 40}
+Initial Amount : 700
+Amount after Discount : 700
